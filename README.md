@@ -1,7 +1,5 @@
 ### Hi there 👋🏿
 
-<img src="" alt="My Profile Header Image" /> 
-
 <hr>
 
 I am Onyehanere Priscilla 😁
@@ -19,15 +17,11 @@ Here are some of the websites I have created
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>
 </p>
--  Frameworks (Ajax, Bootstrap, JQuery, W3CSS).
+-  Frameworks ( Bootstrap, W3CSS).
 <p> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="40"/> 
     > 
 </p>
-
-
-
-
 
 
 - use Git/GitHub to coordinate my Dev operations
@@ -35,28 +29,6 @@ Here are some of the websites I have created
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/> 
 </p>
-
-
-I am also a Video Editor 😎 
-I make effects using After Effects, Premiere Pro and Adobe Illustrator
-<p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" alt="apache" height="40"/> 
-    <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/200px-Adobe_After_Effects_CC_icon.png" alt="electron" height="40"/> 
-    <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/premiere-cc-logo-png-transparent.png" alt="figma" height="40"/>
-</p>
-<br>
-<p>
-    <img src="https://github.com/Itzadetunji/itzadetunji/blob/main/Capture.PNG" alt="adobe after effects"/> 
-</p> 
-~ [Check This Out 👆🏿](https://github.com/Itzadetunji/itzadetunji/blob/main/CALEB%20CAMERA%20LOGO%202%2060fps%2011-11-20%203-18.mp4),
-
-<!-- <h1 align="center">My Stats</h1> -->
-
-<!-- <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzadetunji&layout=compact" alt="itzadetunji" />
-    &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=itzadetunji&show_icons=true" alt="itzadetunji" />
-</div> -->
 
 
 <h1 align="center">My Social Accounts</h1>
@@ -78,9 +50,6 @@ I make effects using After Effects, Premiere Pro and Adobe Illustrator
         <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Adetunji adeyinka" height="50" />
     </a>
     &nbsp
-    <br><br>
-    <a href="https://www.hackerrank.com/adetunjiadeyink1" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="adetunjiadeyink1" height="40" />
-    </a>
+    
 </p>
 
