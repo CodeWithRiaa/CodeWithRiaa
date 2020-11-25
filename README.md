@@ -4,8 +4,8 @@
 
 I am Onyehanere Priscilla 😁
 
-I am a 16 years old Frontend web developer in Nigeria
-Here are some of the websites I have created
+I am a 15 years old Frontend web developer in Nigeria
+I love to code.
 
 
 -  HTML, CSS and Javascrpt.
@@ -18,7 +18,7 @@ Here are some of the websites I have created
 -  Frameworks ( Bootstrap, W3CSS).
 <p> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="40"/> 
-    > 
+    
 </p>
 
 
