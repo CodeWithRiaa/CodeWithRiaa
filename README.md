@@ -8,15 +8,13 @@ I am a 16 years old Frontend web developer in Nigeria
 Here are some of the websites I have created
 
 
-<h1 align="center">I implement:</h1>
-
-
 -  HTML, CSS and Javascrpt.
 <p>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>
 </p>
+
 -  Frameworks ( Bootstrap, W3CSS).
 <p> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="40"/> 
