@@ -25,10 +25,7 @@ I am a Frontend web developer and UX/UI Designer🤩
         <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="onye_prisca" height="50" />
     </a>
     &nbsp;
-    <a href="https://mobile.twitter.com/Precious01_" target="_blank">
-        <img align="center" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" alt="Precious01_" height="50" />
-    </a>
-    &nbsp;
+    
     <a href="https://www.facebook.com/priscilla.onyehanere.5" target="_blank">
         <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="priscilla onyehanere" height="50" />
     </a>
