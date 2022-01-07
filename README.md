@@ -7,20 +7,6 @@ I am Onyehanere Priscilla 😁
 I am a Frontend web developer and UX/UI Designer🤩
 
 
--  HTML, CSS and Javascrpt.
-<p>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>
-</p>
-
--  Frameworks ( Bootstrap, W3CSS).
-<p> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="40"/> 
-    
-</p>
-
-
 - use Git/GitHub to coordinate my Dev operations
 <p>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/> 
