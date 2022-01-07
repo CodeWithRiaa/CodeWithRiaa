@@ -4,8 +4,7 @@
 
 I am Onyehanere Priscilla 😁
 
-I am a 15 years old Frontend web developer in Nigeria
-I love to code.
+I am a Frontend web developer and UX/UI Designer🤩
 
 
 -  HTML, CSS and Javascrpt.
