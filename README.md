@@ -29,3 +29,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Profile View
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriscaOnyee&label=Profile%20views&color=0e75b6&style=flat" alt="Follow me [here](PriscaOnyee)" /> </p>
+
+### stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PriscaOnyee&show_icons=true&locale=en" alt="PriscaOnyee"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PriscaOnyee&" alt="PriscaOnyee" /></p>
