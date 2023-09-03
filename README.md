@@ -26,4 +26,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codemyhobby100&label=Profile%20views&color=0e75b6&style=flat" alt="codemyhobby100" /> </p>
+### Profile View
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriscaOnyee&label=Profile%20views&color=0e75b6&style=flat" alt="Follow me [here](PriscaOnyee)" /> </p>
