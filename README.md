@@ -1,7 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Onyehanere Priscilla
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Lagos, Nigeria.
+<h3 align="center">A passionate frontend web developer with a Year of experience.</h3>
+
+- 🔭 I’m currently working on [a Image Search website and an E-commerce website]
+
+- 🌱 I’m currently learning **React.js and some other javaScript frameworks.**
+
+- 📝 I document my journey on [TikTok](https://www.tiktok.com/@243daysofproductivity) and [Youtube](https://www.youtube.com/@CodingHabitsGirl)
+
+- ⚡ Learning to code is a process that **never ends!**
+ 
 <br/>
 
 ### Skills
@@ -16,3 +25,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codemyhobby100&label=Profile%20views&color=0e75b6&style=flat" alt="codemyhobby100" /> </p>
