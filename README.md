@@ -3,6 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3 align="center">A passionate frontend web developer with a Year of experience.</h3>
 
+  <img src="https://github.com/ZevaGuillo/ZevaGuillo/blob/main/pa.gif?raw=true" align="right" width="15%"/>
+  <samp>
+
 - 🔭 I’m currently working on [an Image Search website and an E-commerce website]
 
 - 🌱 I’m currently learning **React.js and some other JavaScript frameworks.**
