@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3>A passionate frontend web developer with a year of experience.</h3>
 
-  <img src="https://github.com/ZevaGuillo/ZevaGuillo/blob/main/pa.gif?raw=true" align="right" width="15%"/>
+  <img src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif?raw=true" align="right" width="15%"/>
   <samp>
 
 - **Here's a quick summary about me**:
