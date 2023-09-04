@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <samp>
 
 - **Here's a quick summary about me**:
-- 🌱 I’m currently **React.js and some other JavaScript frameworks.**
+- 🌱 I’m currently learning **React.js and some other JavaScript frameworks.**
 - 🔭 I’m currently working on [an Image Search website and an E-commerce website]
 - 😊 I’m looking to help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front-end Developer, Software Engineer (Intern or Junior level).
