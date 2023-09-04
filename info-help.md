@@ -1,6 +1,6 @@
 PriscaOnyee
 
-[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#wakatime-stats-card)
+Help Page for [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#wakatime-stats-card)
 
 ### Profile View
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriscaOnyee&label=Profile%20views&color=0e75b6&style=flat" alt="Follow me [here](PriscaOnyee)" /> </p>
@@ -16,3 +16,5 @@ PriscaOnyee
 
 ### stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PriscaOnyee&show_icons=true&locale=en" alt="PriscaOnyee"/></p>
+
+![Prisca's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriscaOnyee&show_icons=true)
