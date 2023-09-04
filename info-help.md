@@ -17,4 +17,4 @@ Help Page for [GitHub Readme Stats](https://github.com/anuraghazra/github-readme
 ### stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PriscaOnyee&show_icons=true&locale=en" alt="PriscaOnyee"/></p>
 
-![Prisca's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriscaOnyee&show_icons=true)
+![Prisca's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriscaOnyee&show_icons=false&theme=cobalt)
