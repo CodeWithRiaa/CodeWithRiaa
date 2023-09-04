@@ -1,5 +1,7 @@
 PriscaOnyee
 
+[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#wakatime-stats-card)
+
 ### Profile View
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=PriscaOnyee&label=Profile%20views&color=0e75b6&style=flat" alt="Follow me [here](PriscaOnyee)" /> </p>
 
