@@ -9,19 +9,31 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **Here's a quick summary about me**:
 - 🌱 I’m currently **React.js and some other JavaScript frameworks.**
 - 🔭 I’m currently working on [an Image Search website and an E-commerce website]
-- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Front-end Developer (Intern or Junior level).
+- 😊 I’m looking to help with open-source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Front-end Developer, Software Engineer (Intern or Junior level).
+- 💞️  Follow me on GitHub to stay tuned on my amazing projects.
 - ⚡ Quote: Learning to code is a process that **never ends!**
 - 📫 You can [view my resume](https://github.com/PriscaOnyee) and contact me by emailing mailtopriscillaonyehaneren@gmail.com.
 - 📝 I document my journey on [TikTok](https://www.tiktok.com/@243daysofproductivity) and [Youtube](https://www.youtube.com/@CodingHabitsGirl)
 
 <!-- - 💡 journey: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024. -->
- 
+<!-- 📝 I regularly write articles on https://priscaonyee.hashnode.dev/ -->
+<!-- -->
+<!-- -->
+<!-- -->
+
 <br/>
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/> </div>
+
 <br/>
 
 ### Socials
@@ -36,11 +48,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <br/>
 
-### Stats
+
+### Github Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PriscaOnyee&" alt="PriscaOnyee" /></p>
 
 <br/>
+
 
 ### My WakaTime Stats
 [![Prisca's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodingHabitsGirl&layout=compact)](https://github.com/PriscaOnyee/github-readme-stats)
