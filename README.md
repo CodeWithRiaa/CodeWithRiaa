@@ -31,4 +31,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PriscaOnyee&" alt="PriscaOnyee" /></p>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodingHabitsGirl)](https://github.com/anuraghazra/github-readme-stats)
+### WakaTime
+<h4>My WakaTime Stats</h4>
+[![Prisca's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodingHabitsGirl&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
