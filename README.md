@@ -31,8 +31,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-
-<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/> </div>
+<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/> </div>
 
 <br/>
 
