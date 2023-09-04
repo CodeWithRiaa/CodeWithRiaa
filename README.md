@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3 align="center">A passionate frontend web developer with a Year of experience.</h3>
 
-- 🔭 I’m currently working on [a Image Search website and an E-commerce website]
+- 🔭 I’m currently working on [an Image Search website and an E-commerce website]
 
-- 🌱 I’m currently learning **React.js and some other javaScript frameworks.**
+- 🌱 I’m currently learning **React.js and some other JavaScript frameworks.**
 
 - 📝 I document my journey on [TikTok](https://www.tiktok.com/@243daysofproductivity) and [Youtube](https://www.youtube.com/@CodingHabitsGirl)
 
@@ -26,10 +26,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </a>
 </div>
 
+<br/>
 
 ### Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PriscaOnyee&" alt="PriscaOnyee" /></p>
+
+<br/>
 
 ### My WakaTime Stats
 [![Prisca's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodingHabitsGirl&layout=compact)](https://github.com/PriscaOnyee/github-readme-stats)
