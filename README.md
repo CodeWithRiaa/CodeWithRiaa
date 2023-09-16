@@ -30,9 +30,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
 [![My Skills](https://skillicons.dev/icons?i=materialui,styledcomponents,tailwind,figma)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
 [![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,nextjs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
-[![My Skills](https://skillicons.dev/icons?i=vscode,netlify)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
+[![My Skills](https://skillicons.dev/icons?i=vscode,netlify,git,github)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
 [![My Skills](https://skillicons.dev/icons?i=py,mysql)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>
+<!-- [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/> -->
 
 <!--<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" **alt="Git" width="50" height="50"/> </div> -->
 
