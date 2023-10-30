@@ -20,8 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!-- - 💡 journey: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024. -->
 <!-- 📝 I regularly write articles on https://priscaonyee.hashnode.dev/ -->
 <!-- Check out my notion template. -->
-<!-- Check out my notion template. -->
-<!-- Check out my notion template. -->
+
 <!-- -->
 
 <br/>
