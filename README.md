@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) there.
 ========================================================================================================================================
 
-<h3>A passionate frontend web developer with a year of experience.</h3>
+<h3>A passionate front-end web developer with a year of experience.</h3>
 
   <img src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif?raw=true" align="right" width="15%"/>
   <samp>
