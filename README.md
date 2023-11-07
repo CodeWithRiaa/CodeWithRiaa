@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - **Here's a quick summary about me**:
 - 🌱 I’m currently learning **React.js and some other JavaScript frameworks.**
-- 🔭 I’m currently working on [an Image Search website and an E-commerce website]
+- 🔭 I’m currently working on [a Business website and an E-commerce website]
 - 😊 I’m looking to help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front-end Developer, Software Engineer (Intern or Junior level).
 - 💞️  Follow me on GitHub to stay tuned on my amazing projects.
@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!-- - 💡 journey: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024. -->
 <!-- 📝 I regularly write articles on https://priscaonyee.hashnode.dev/ -->
 <!-- Check out my notion template. -->
-notion
+
 <!-- -->
 
 <br/>
