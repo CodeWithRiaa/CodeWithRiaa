@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 😊 I’m looking to help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front-end Developer, Software Engineer (Intern or Junior level).
 - 💞️  Follow me on GitHub to stay tuned on my amazing projects.
-- ⚡ Quote: Learning to code is a process that **never ends!**edit
+- ⚡ Quote: Learning to code is a process that **never ends!
 - 📫 You can [view my resume](https://github.com/CodeWithRiaa) and contact me by [email](243daysofproductivity@gmail.com)
 - 🚀 started #100 days of code challenge. check out on twitter 
 <!--- 📝 I document my journey on [TikTok](https://www.tiktok.com/@243daysofproductivity) and [Youtube](https://www.youtube.com/@CodingHabitsGirl) -->
