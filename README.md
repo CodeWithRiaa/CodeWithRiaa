@@ -15,7 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - ⚡ Quote: Learning to code is a process that **never ends!
 - 📫 You can [view my resume](https://github.com/PriscaOnye) and contact me by [email](243daysofproductivity@gmail.com)
 - 🚀 started #100 days of code challenge. check out on twitter
-- Welcome to a new year 2024.🌟
+- Welcome to a new year 2024.🌟 Expect more Projects from me here.
 <!--- 📝 I document my journey on [TikTok](https://www.tiktok.com/@243daysofproductivity) and [Youtube](https://www.youtube.com/@CodingHabitsGirl) -->
 
 <!-- - 💡 journey: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024. -->
