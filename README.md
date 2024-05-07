@@ -8,7 +8,7 @@ Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 
 - **Here's a quick summary about me**:
 - 🌱 I’m currently learning **React.js, TypeScript and some other CSS & JavaScript frameworks.** I'm also learning about cloud computing.
-- 🔭 I’m currently working on [a Business website and an E-commerce website]
+- 🔭 I’m currently working on [a SAAS Agricultural website]
 - 😊 I’m looking to help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front-end Developer, Software Engineer (Intern or Junior level).
 - 💞️  Follow me on GitHub to stay tuned on my amazing projects.
